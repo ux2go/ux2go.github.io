@@ -1,4 +1,4 @@
-UX 2 GO
+Story
 A (modular, highly tweakable) responsive one-page template designed by HTML5 UP and released for free under the Creative Commons.
 	•	Get Started
  
